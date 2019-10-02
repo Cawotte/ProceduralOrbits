@@ -137,52 +137,6 @@ public class OrbitManager : MonoBehaviour
 
         public TrailRandomRanges TParam;
 
-        /*
-        public OrbitalRandomRanges(int depth)
-        {
-            switch (depth)
-            {
-                case 0:
-                    this.MinOrbitals = 2;
-                    this.MaxOrbitals = 4;
-                    this.MinSpeed = 0.2f;
-                    this.MaxSpeed = 6f;
-                    this.MinRadius = 0.3f;
-                    this.MaxRadius = 2f;
-                    this.MinSize = 0.5f;
-                    this.MaxSize = 1.8f;
-                    this.ClockwiseProbability = 0.66f;
-                    this.TrailsProbability = 1f;
-                    break;
-                case 1:
-                    this.MinOrbitals = 1;
-                    this.MaxOrbitals = 3;
-                    this.MinSpeed = 0.2f;
-                    this.MaxSpeed = 6f;
-                    this.MinRadius = 0.3f;
-                    this.MaxRadius = 2f;
-                    this.MinSize = 0.5f;
-                    this.MaxSize = 1.8f;
-                    this.ClockwiseProbability = 0.66f;
-                    this.TrailsProbability = 0.5f;
-                    break;
-                case 2:
-                default:
-                    this.MinOrbitals = 0;
-                    this.MaxOrbitals = 2;
-                    this.MinSpeed = 0.2f;
-                    this.MaxSpeed = 6f;
-                    this.MinRadius = 0.3f;
-                    this.MaxRadius = 2f;
-                    this.MinSize = 0.5f;
-                    this.MaxSize = 1.8f;
-                    this.ClockwiseProbability = 0.66f;
-                    this.TrailsProbability = 0.25f;
-                    break;
-
-            }
-        } */
-        
     }
 
     [Serializable]

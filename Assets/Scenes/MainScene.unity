@@ -230,7 +230,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 6.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -294,7 +294,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.27999878, y: 0.5500002}
+  m_AnchoredPosition: {x: -0.27999878, y: 0.55000305}
   m_SizeDelta: {x: -9.29, y: -5.46}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &587344489
@@ -345,11 +345,11 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 25.7
+  m_fontSize: 24.65
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 18
+  m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_textAlignment: 514
@@ -634,8 +634,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 17, y: 13}
-  m_SizeDelta: {x: 81.45, y: 63.83}
+  m_AnchoredPosition: {x: 9, y: 8.700012}
+  m_SizeDelta: {x: 91.05, y: 61.449997}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1662715222
 MonoBehaviour:
